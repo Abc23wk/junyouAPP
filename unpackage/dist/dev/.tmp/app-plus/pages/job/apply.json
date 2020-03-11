@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "申请记录",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "van-icon": "/wxcomponents/vant/icon/index",
+    "wux-button": "/wxcomponents/wux/button/index",
+    "wux-toast": "/wxcomponents/wux/toast/index",
+    "van-cell": "/wxcomponents/vant/cell/index",
+    "van-cell-group": "/wxcomponents/vant/cell-group/index"
+  }
+}

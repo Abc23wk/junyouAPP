@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "拥军企业",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "van-search": "/wxcomponents/vant/search/index",
+    "van-popup": "/wxcomponents/vant/popup/index",
+    "van-row": "/wxcomponents/vant/row/index",
+    "van-col": "/wxcomponents/vant/col/index",
+    "van-cell": "/wxcomponents/vant/cell/index",
+    "van-cell-group": "/wxcomponents/vant/cell-group/index",
+    "van-tree-select": "/wxcomponents/vant/tree-select/index",
+    "wux-cascader": "/wxcomponents/wux/cascader/index"
+  }
+}

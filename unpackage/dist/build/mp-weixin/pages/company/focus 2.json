@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "关注企业",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "van-cell": "/wxcomponents/vant/cell/index",
+    "van-cell-group": "/wxcomponents/vant/cell-group/index"
+  }
+}

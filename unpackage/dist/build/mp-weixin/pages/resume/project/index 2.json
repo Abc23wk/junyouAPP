@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "项目经验",
+  "usingComponents": {
+    "van-cell": "/wxcomponents/vant/cell/index"
+  }
+}

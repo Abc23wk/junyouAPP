@@ -1,0 +1,22 @@
+{
+  "navigationBarTitleText": "热招职位",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "van-tabbar": "/wxcomponents/vant/tabbar/index",
+    "van-tabbar-item": "/wxcomponents/vant/tabbar-item/index",
+    "van-icon": "/wxcomponents/vant/icon/index",
+    "wux-button": "/wxcomponents/wux/button/index",
+    "ltabbar": "/components/ltabbar",
+    "wux-toast": "/wxcomponents/wux/toast/index",
+    "van-search": "/wxcomponents/vant/search/index",
+    "van-popup": "/wxcomponents/vant/popup/index",
+    "van-row": "/wxcomponents/vant/row/index",
+    "van-col": "/wxcomponents/vant/col/index",
+    "van-cell": "/wxcomponents/vant/cell/index",
+    "van-cell-group": "/wxcomponents/vant/cell-group/index",
+    "wux-slider": "/wxcomponents/wux/slider/index",
+    "van-tree-select": "/wxcomponents/vant/tree-select/index",
+    "wux-timeago": "/wxcomponents/wux/timeago/index",
+    "wux-cascader": "/wxcomponents/wux/cascader/index"
+  }
+}

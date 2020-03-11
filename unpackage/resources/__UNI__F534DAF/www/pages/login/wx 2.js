@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\n.",[1],"content.",[1],"data-v-a18af562 { padding: 50% 30px 0; }\n.",[1],"content .",[1],"list-warning.",[1],"data-v-a18af562 { position: fixed; bottom: 15px; left: 0; right: 0; font-size: 12px; color: #C0C4CC; text-align: center; }\n",],undefined,{path:"./pages/login/wx.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/login/wx.wxml') } }));

@@ -1,0 +1,18 @@
+{
+  "navigationBarTitleText": "简历",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#387ef5",
+  "usingComponents": {
+    "van-icon": "/wxcomponents/vant/icon/index",
+    "van-grid": "/wxcomponents/vant/grid/index",
+    "van-grid-item": "/wxcomponents/vant/grid-item/index",
+    "wux-button": "/wxcomponents/wux/button/index",
+    "ltabbar": "/components/ltabbar",
+    "wux-toast": "/wxcomponents/wux/toast/index",
+    "van-tag": "/wxcomponents/vant/tag/index",
+    "wux-timeline": "/wxcomponents/wux/timeline/index",
+    "wux-timeline-item": "/wxcomponents/wux/timeline-item/index",
+    "van-cell": "/wxcomponents/vant/cell/index",
+    "van-cell-group": "/wxcomponents/vant/cell-group/index"
+  }
+}

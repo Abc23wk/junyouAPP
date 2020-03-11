@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "军旅荣誉",
+  "usingComponents": {
+    "van-cell": "/wxcomponents/vant/cell/index"
+  }
+}

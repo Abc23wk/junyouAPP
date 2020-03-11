@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "收藏记录",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "van-cell": "/wxcomponents/vant/cell/index",
+    "van-cell-group": "/wxcomponents/vant/cell-group/index",
+    "wux-timeago": "/wxcomponents/wux/timeago/index"
+  }
+}

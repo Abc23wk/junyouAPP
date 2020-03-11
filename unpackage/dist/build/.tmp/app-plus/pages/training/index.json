@@ -1,0 +1,18 @@
+{
+  "navigationBarTitleText": "教育培训",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "van-tabbar": "/wxcomponents/vant/tabbar/index",
+    "van-tabbar-item": "/wxcomponents/vant/tabbar-item/index",
+    "van-icon": "/wxcomponents/vant/icon/index",
+    "wux-button": "/wxcomponents/wux/button/index",
+    "wux-toast": "/wxcomponents/wux/toast/index",
+    "van-search": "/wxcomponents/vant/search/index",
+    "van-popup": "/wxcomponents/vant/popup/index",
+    "van-row": "/wxcomponents/vant/row/index",
+    "van-col": "/wxcomponents/vant/col/index",
+    "van-cell": "/wxcomponents/vant/cell/index",
+    "van-cell-group": "/wxcomponents/vant/cell-group/index",
+    "wux-cascader": "/wxcomponents/wux/cascader/index"
+  }
+}

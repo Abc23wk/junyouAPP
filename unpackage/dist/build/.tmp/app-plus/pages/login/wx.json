@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "授权登陆",
+  "usingComponents": {
+    "wux-button": "/wxcomponents/wux/button/index"
+  }
+}

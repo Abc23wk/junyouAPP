@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "新增项目经验",
+  "usingComponents": {
+    "wux-button": "/wxcomponents/wux/button/index",
+    "wux-toast": "/wxcomponents/wux/toast/index",
+    "van-field": "/wxcomponents/vant/field/index",
+    "van-popup": "/wxcomponents/vant/popup/index",
+    "van-datetime-picker": "/wxcomponents/vant/datetime-picker/index"
+  }
+}

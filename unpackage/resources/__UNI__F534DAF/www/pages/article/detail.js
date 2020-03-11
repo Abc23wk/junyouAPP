@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\n.",[1],"lxk-title.",[1],"data-v-7dcee980 { font-size: 16px; padding: 10px 15px; background: #fff; }\n.",[1],"lxk-body.",[1],"data-v-7dcee980 { font-size: 12px; padding: 10px 15px; }\n",],undefined,{path:"./pages/article/detail.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/article/detail.wxml') } }));

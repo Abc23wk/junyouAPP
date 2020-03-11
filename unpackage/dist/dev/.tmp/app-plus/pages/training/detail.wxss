@@ -1,0 +1,143 @@
+@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.content.data-v-44b07e44 {
+  padding: 0 0 70px;
+}
+.lxk-body.data-v-44b07e44 {
+  margin: 10px;
+  padding: 10px;
+  background: #fff;
+  border-radius: 5px;
+}
+.lxk-body .lxk-price.data-v-44b07e44 {
+    color: #ef473a;
+}
+.lxk-body .lxk-body-title.data-v-44b07e44 {
+    font-size: 14px;
+    position: relative;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+}
+.lxk-body .lxk-body-title.data-v-44b07e44:after {
+      position: absolute;
+      box-sizing: border-box;
+      content: ' ';
+      pointer-events: none;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      border-bottom: 1px solid #ebedf0;
+      -webkit-transform: scaleY(0.5);
+              transform: scaleY(0.5);
+}
+.lxk-body .lxk-body-tag.data-v-44b07e44 {
+    font-size: 12px;
+    line-height: 24px;
+    color: #666;
+}
+.lxk-body .lxk-body-tag.data-v-44b07e44 .van-tag {
+      margin-right: 8px;
+}
+.lxk-body .lxk-body-desc.data-v-44b07e44 {
+    color: #666;
+    font-size: 12px;
+}
+.job-num.data-v-44b07e44 {
+  font-size: 12px;
+  color: #1a8afa;
+  padding: 0 5px;
+  font-weight: 700;
+}
+.data-v-44b07e44 .lxk-mq .cell-index--van-cell__left-icon {
+  font-size: 32px;
+  padding-top: 21px;
+}
+.data-v-44b07e44 .lxk-zw .time,.data-v-44b07e44 .lxk-zw .demand {
+  font-size: 12px;
+  color: #999;
+  line-height: 24px;
+}
+.data-v-44b07e44 .lxk-zw .company,.data-v-44b07e44 .lxk-zw .area {
+  font-size: 12px;
+  color: #666;
+  line-height: 24px;
+}
+.lxk-head.data-v-44b07e44 {
+  margin: 10px;
+  padding: 10px;
+  background: #fff;
+  border-radius: 5px;
+  box-shadow: 0 0.02667rem 0.32rem rgba(219, 219, 219, 0.35);
+}
+.lxk-head .lxk-demand.data-v-44b07e44 {
+    font-size: 12px;
+    line-height: 24px;
+    color: #666;
+}
+.lxk-head .address.data-v-44b07e44 {
+    font-size: 12px;
+    line-height: 24px;
+    position: relative;
+}
+.lxk-head .address.data-v-44b07e44 .lxk-address-right {
+      float: right;
+      line-height: 24px;
+}
+.lxk-head .address.data-v-44b07e44 .van-icon {
+      margin-right: 5px;
+}
+.lxk-head .lxk-price.data-v-44b07e44 {
+    color: #ef473a;
+    font-size: 16px;
+    line-height: 48px;
+    margin-bottom: 10px;
+    position: relative;
+}
+.lxk-head .lxk-price.data-v-44b07e44:after {
+      content: '';
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      border-bottom: 1px solid #ebedf0;
+      -webkit-transform: scaleY(0.5);
+              transform: scaleY(0.5);
+}
+.lxk-head .lxk-price .time.data-v-44b07e44 {
+      font-size: 12px;
+      float: right;
+      color: #666;
+}
+.lxk-foot.data-v-44b07e44 {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 0 10px;
+  background: #fff;
+}
+

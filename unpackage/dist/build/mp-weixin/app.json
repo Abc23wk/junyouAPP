@@ -1,0 +1,88 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/login/wx",
+    "pages/login/app",
+    "pages/login/forget",
+    "pages/job/index",
+    "pages/job/detail",
+    "pages/job/apply",
+    "pages/job/invite",
+    "pages/job/collection",
+    "pages/company/index",
+    "pages/training/detail",
+    "pages/training/index",
+    "pages/training/apply",
+    "pages/my/index",
+    "pages/my/ac",
+    "pages/my/update",
+    "pages/my/security",
+    "pages/record/index",
+    "pages/article/new",
+    "pages/article/policy",
+    "pages/article/strategy",
+    "pages/article/help",
+    "pages/article/detail",
+    "pages/resume/index",
+    "pages/resume/preview",
+    "pages/resume/basic",
+    "pages/resume/pref",
+    "pages/resume/work/index",
+    "pages/resume/work/add",
+    "pages/resume/work/detail",
+    "pages/resume/project/index",
+    "pages/resume/project/add",
+    "pages/resume/project/detail",
+    "pages/resume/edu/index",
+    "pages/resume/edu/add",
+    "pages/resume/edu/detail",
+    "pages/resume/honor/index",
+    "pages/resume/honor/add",
+    "pages/resume/honor/detail",
+    "pages/resume/setting",
+    "pages/company/detail",
+    "pages/company/focus"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "军优创就业",
+    "navigationBarBackgroundColor": "#fff",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index"
+      },
+      {
+        "pagePath": "pages/job/index"
+      },
+      {
+        "pagePath": "pages/company/index"
+      },
+      {
+        "pagePath": "pages/resume/index"
+      },
+      {
+        "pagePath": "pages/my/index"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "获取应聘公司位置"
+    }
+  },
+  "usingComponents": {
+    "van-icon": "/wxcomponents/vant/icon/index",
+    "wux-toast": "/wxcomponents/wux/toast/index",
+    "wux-button": "/wxcomponents/wux/button/index",
+    "van-grid": "/wxcomponents/vant/grid/index",
+    "van-grid-item": "/wxcomponents/vant/grid-item/index",
+    "van-tabbar": "/wxcomponents/vant/tabbar/index",
+    "van-tabbar-item": "/wxcomponents/vant/tabbar-item/index",
+    "ltabbar": "/components/ltabbar"
+  },
+  "sitemapLocation": "sitemap.json"
+}

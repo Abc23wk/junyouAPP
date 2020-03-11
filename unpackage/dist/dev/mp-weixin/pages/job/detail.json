@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "职位详情",
+  "usingComponents": {
+    "van-tag": "/wxcomponents/vant/tag/index",
+    "van-row": "/wxcomponents/vant/row/index",
+    "van-col": "/wxcomponents/vant/col/index",
+    "van-cell": "/wxcomponents/vant/cell/index",
+    "van-cell-group": "/wxcomponents/vant/cell-group/index",
+    "wux-timeago": "/wxcomponents/wux/timeago/index"
+  }
+}

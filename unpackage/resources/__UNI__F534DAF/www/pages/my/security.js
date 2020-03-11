@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\n.",[1],"lxk-button.",[1],"data-v-f0c38b56 { padding: 0 10px; }\n.",[1],"content.",[1],"data-v-f0c38b56 { padding-bottom: 20px; }\n.",[1],"list-warning.",[1],"data-v-f0c38b56 { position: fixed; bottom: 15px; left: 0; right: 0; font-size: 12px; color: #C0C4CC; text-align: center; }\n",],undefined,{path:"./pages/my/security.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/my/security.wxml') } }));

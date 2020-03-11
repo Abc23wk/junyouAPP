@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "教育培训",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "van-search": "/wxcomponents/vant/search/index",
+    "van-popup": "/wxcomponents/vant/popup/index",
+    "van-row": "/wxcomponents/vant/row/index",
+    "van-col": "/wxcomponents/vant/col/index",
+    "van-cell": "/wxcomponents/vant/cell/index",
+    "van-cell-group": "/wxcomponents/vant/cell-group/index",
+    "wux-cascader": "/wxcomponents/wux/cascader/index"
+  }
+}

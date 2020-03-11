@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "",
+  "navigationBarBackgroundColor": "#F8F8F8",
+  "backgroundColor": "#F8F8F8",
+  "usingComponents": {
+    "wux-button": "/wxcomponents/wux/button/index",
+    "wux-toast": "/wxcomponents/wux/toast/index",
+    "van-field": "/wxcomponents/vant/field/index",
+    "van-button": "/wxcomponents/vant/button/index"
+  }
+}

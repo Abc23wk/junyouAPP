@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "navigationBarBackgroundColor": "#F8F8F8",
+  "backgroundColor": "#F8F8F8",
+  "usingComponents": {
+    "van-field": "/wxcomponents/vant/field/index",
+    "van-button": "/wxcomponents/vant/button/index"
+  }
+}

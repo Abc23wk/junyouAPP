@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "账号与安全",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#387ef5",
+  "usingComponents": {
+    "van-button": "/wxcomponents/vant/button/index",
+    "van-field": "/wxcomponents/vant/field/index"
+  }
+}

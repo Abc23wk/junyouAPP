@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "培训详情",
+  "usingComponents": {
+    "van-tag": "/wxcomponents/vant/tag/index",
+    "van-cell": "/wxcomponents/vant/cell/index",
+    "van-cell-group": "/wxcomponents/vant/cell-group/index",
+    "wux-timeago": "/wxcomponents/wux/timeago/index"
+  }
+}

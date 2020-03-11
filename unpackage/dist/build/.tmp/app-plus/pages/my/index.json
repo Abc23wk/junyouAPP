@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "个人中心",
+  "usingComponents": {
+    "ltabbar": "/components/ltabbar",
+    "wux-toast": "/wxcomponents/wux/toast/index",
+    "van-cell": "/wxcomponents/vant/cell/index",
+    "van-cell-group": "/wxcomponents/vant/cell-group/index"
+  }
+}

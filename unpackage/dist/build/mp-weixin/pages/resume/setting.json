@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "简历设置",
+  "usingComponents": {
+    "van-field": "/wxcomponents/vant/field/index",
+    "van-popup": "/wxcomponents/vant/popup/index",
+    "van-picker": "/wxcomponents/vant/picker/index"
+  }
+}

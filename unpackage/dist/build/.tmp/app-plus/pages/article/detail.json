@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "文章详细",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#387ef5",
+  "usingComponents": {
+    "parser": "/components/jyf-Parser/index"
+  }
+}

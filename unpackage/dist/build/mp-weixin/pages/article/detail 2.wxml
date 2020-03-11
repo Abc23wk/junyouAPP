@@ -1,0 +1,1 @@
+<view class="content data-v-7dcee980"><view class="lxk-title data-v-7dcee980">{{detail.title}}</view><parser class="lxk-body data-v-7dcee980" vue-id="1" html="{{detail.addon.body}}" bind:__l="__l"></parser></view>

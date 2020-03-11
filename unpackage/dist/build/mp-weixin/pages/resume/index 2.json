@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "简历",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#387ef5",
+  "usingComponents": {
+    "van-tag": "/wxcomponents/vant/tag/index",
+    "wux-timeline": "/wxcomponents/wux/timeline/index",
+    "wux-timeline-item": "/wxcomponents/wux/timeline-item/index",
+    "van-cell": "/wxcomponents/vant/cell/index",
+    "van-cell-group": "/wxcomponents/vant/cell-group/index"
+  }
+}

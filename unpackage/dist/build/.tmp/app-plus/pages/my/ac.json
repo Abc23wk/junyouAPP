@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "军人认证",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#387ef5",
+  "usingComponents": {
+    "wux-button": "/wxcomponents/wux/button/index",
+    "wux-toast": "/wxcomponents/wux/toast/index",
+    "van-field": "/wxcomponents/vant/field/index",
+    "wux-upload": "/wxcomponents/wux/upload/index"
+  }
+}

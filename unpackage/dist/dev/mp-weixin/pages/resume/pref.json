@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "求职意向",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#387ef5",
+  "usingComponents": {
+    "van-field": "/wxcomponents/vant/field/index",
+    "van-popup": "/wxcomponents/vant/popup/index",
+    "van-picker": "/wxcomponents/vant/picker/index",
+    "wux-cascader": "/wxcomponents/wux/cascader/index"
+  }
+}

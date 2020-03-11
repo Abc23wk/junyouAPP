@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "军优创就业",
+  "usingComponents": {
+    "van-search": "/wxcomponents/vant/search/index",
+    "van-cell": "/wxcomponents/vant/cell/index",
+    "van-cell-group": "/wxcomponents/vant/cell-group/index",
+    "van-notice-bar": "/wxcomponents/vant/notice-bar/index",
+    "wux-timeago": "/wxcomponents/wux/timeago/index",
+    "wux-cascader": "/wxcomponents/wux/cascader/index"
+  }
+}
